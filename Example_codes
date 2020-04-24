@@ -1,0 +1,5 @@
+Package
+_________________
+
+pyinstaller --onefile hello.py
+
